@@ -6,5 +6,7 @@ public class Main
     System.out.println("This is master");
 
     System.out.println("Hello World!");
+
+    System.out.println("Feature 1");
   }
 }
